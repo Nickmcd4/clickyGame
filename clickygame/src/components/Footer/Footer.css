@@ -1,0 +1,13 @@
+.footer{
+
+    background-image: url('../../images/footer.png') !important;
+    color: white;
+    font-size: 150%;
+    height: 75px;
+
+}
+
+#newStyle{
+    font-family: sans-serif;
+    color: #DE6CA9;
+}
